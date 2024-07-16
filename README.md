@@ -1,4 +1,4 @@
-# <p align="center">Anki Insights <img src="res/img/stats_icon.svg"></p>
+# <p align="center">Anki Insights <img src=".github/stats_icon.svg"></p>
 
 <p align="center">Track and analyze your Anki usage with detailed statistics and visualizations.</p>  
 <p align="center"><img src=".github/popup.png"></p>
@@ -18,4 +18,4 @@ on [GitHub](https://github.com/JithinSukumaran/anki-insights/issues).
 
 Wish you the best! -Jithin
 
-MIT License ©2022-2023
+MIT License ©2024-2025
